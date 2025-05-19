@@ -60,3 +60,15 @@ volumes:
 فایل 
 
 requirements.txt
+
+```
+Django>=4.2
+psycopg2-binary>=2.9
+```
+
+برای بالا آوردن داکر:
+
+```
+docker-compose up --build
+```
+
